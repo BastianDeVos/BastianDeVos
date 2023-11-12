@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning coding and computer vision
+- 🔭 I’m currently working on building a portfolio of projects
+  
 <!--
 **BastianDeVos/BastianDeVos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
